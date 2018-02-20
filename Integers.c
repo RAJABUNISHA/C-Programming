@@ -22,7 +22,7 @@ int main()
    }
    else
    {
-   	printf(" Invalid key.Enter the Number");
+   	printf(" Invalid key. Enter the Number");
    }
    return 0;
 }

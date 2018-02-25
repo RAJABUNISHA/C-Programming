@@ -9,11 +9,11 @@ int main()
 		{
 			if(a>c)
 			{
-			    printf("A is Largest Number");	
+			    printf("%d",a);	
 			}
 			else
 			{
-				printf("C is Largest Number");
+				printf("%d",c);
 			}
 		}
 	}	
@@ -21,11 +21,11 @@ int main()
 		{
 			if(b>c)
 			{
-				printf("B is Largest Number");
+				printf("%d",b);
 			}
 			else
 			{
-				printf("C is Largest Number");
+				printf("%d",c);
 			}
 		}
 	return 0;
